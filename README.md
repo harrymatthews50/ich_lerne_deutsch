@@ -16,12 +16,10 @@ when prompted type 'y'. Then
 ```
 conda activate ich_lerne_deutsch_env
 conda install pip
-pip install wheel
+pip install "/Users/hmatth5/Documents/Projects/ich_lerne_deutsch/dist/ich_lerne_deutsch-0.1-py3-none-any.whl"
 ```
+In the last line replace "/Users/....whl" with the path on your computer to the .whl file
 
-```
-wheel install /path/to/.whl
-```
 ## Building word lists
 ### Word lists as csv files
 Word lists are expected in tab-delimited '.csv' files. Sprecific columns are expected, depending on the type of word (verb, noun, other). See the example word lists in 'csv_word_lists/'. When making your own word list make sure 1) the column headers remain the same as in the examples 2) you save the file as '.csv' with tab as the column delimiter. 
