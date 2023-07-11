@@ -1,5 +1,5 @@
 # ich_lerne_deutsch
-This is a simple package for building German vocabulary. It imeplements several different exercises for recalling wor ddefinitions, noun genders, plural forms and Partizip 2 of verbs. 
+This is a simple package for building German vocabulary. It implements several different exercises for recalling word definitions, noun genders, plural forms and Partizip 2 of verbs. 
 The word lists are completely customisable and editable. I have provided a few already of A1 level nouns verbs and adjectives and adverbs. Much of this is borrowed from [here](https://github.com/patsytau/anki_german_a1_vocab). Thank you Patsy.
 
 ## Installation
