@@ -22,7 +22,19 @@ pip install wheel
 ```
 wheel install /path/to/.whl
 ```
+## Building word lists
+### Word lists as csv files
+Word lists are expected in tab-delimited '.csv' files. Sprecific columns are expected, depending on the type of word (verb, noun, other). See the example word lists in 'csv_word_lists/'. When making your own word list make sure 1) the column headers remain the same as in the examples 2) you save the file as '.csv' with tab as the column delimiter. 
 
+
+Word lists can be made in a spreadsheet by hand in [Libre Office](https://www.libreoffice.org/)(this software is free) or [Micrososft Excel](https://www.microsoft.com/en-us/microsoft-365/excel).
+
+### Converting word lists into training batches
+The word lists in the .csv files must now be divided into batches for learning. To do this, locate where on your computer is the file from scripts/make_word_batches.p. In the computer terminal or Ananconda prompt type:
+```
+conda activate ich_lerne_deutsch_env
+python "/Users/hmatth5/Documents/Projects/ich_lerne_deutsch/scripts/make_word_batches.py"
+```
 
 
 
