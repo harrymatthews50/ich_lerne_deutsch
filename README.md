@@ -7,7 +7,7 @@ The word lists are completely customisable and editable. I have provided a few a
 Install anaconda or miniconda from [here](https://www.anaconda.com/). The rest of the installation and running the app will require you to use either the computer terminal (on Mac/Linux) or the 'Anaconda prompt' on Windows. The Anaconda prompt will have been installed when you installed Anaconda.
 
 ### Install ich_lerne_deutsch 
-Download the contents of the 'scripts' folder and download the the '.whl' file in 'build/'. In the computer terminal (Mac/Linux) or Anaconda prompt (Windows) type the following
+Download the contents of the 'scripts' folder and download the the '.whl' file in the 'dist/' folder. In the computer terminal (Mac/Linux) or Anaconda prompt (Windows) type the following
 ```
 conda create -n ich_lerne_deutsch_env python=3.10
 ```
