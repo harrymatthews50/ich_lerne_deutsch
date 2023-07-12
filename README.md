@@ -69,7 +69,7 @@ Then to select an exercise (see below)
 <img src="img/Make_word_batches/Select_an_exercise .png" width=40%>
 
 ### Exercises
-#### Speicherkarten
+#### 1. Speicherkarten
 This are traditional flash cards. A word from your list is shown with the definition and (if a Noun) the article and (if a verb) the hilfsverb and Partizip II missing. The idea is that you try to recall the information. You then click to see what was right answer. Below you can see example question and answer cards for each word type.
 
 *Noun*
@@ -84,14 +84,24 @@ This are traditional flash cards. A word from your list is shown with the defini
 
 <img src="img/Speicherkarten/Other_side_1.png" width=40%><img src="img/Speicherkarten/Other_side_2.png" width=40%>
 
-#### Nomen Genus
-This exercise is for recalling the gender of nouns. On each trial you will be shown a singular noun. You should select the correct article in nominative case. You can keep track of your progress with the progress bar at the top. This shows you what proportion of recent trials you answered correctly. When it reaches 100% you have correctly answered for each word five times in a row.
+#### 2. Nomen Genus
+This exercise is for recalling the gender of nouns. On each trial you will be shown a singular noun from the current list. You should select the correct article in nominative case. You can keep track of your progress with the progress bar at the top. This shows you what proportion of recent trials you answered correctly. When it reaches 100% you have correctly answered for each word five times in a row.
 
-<img src="img/Nomen Genus/Nomen_Genus_Question.png" width=40%><img src="img/Nomen Genus/Nomen_Genus_Feedback.png" width=40%>
+<img src="img/Nomen_Genus/Question.png" width=40%><img src="img/Nomen_Genus/Answer.png" width=40%>
+
+#### 3. Was ist das Wort auf Deutsch?
+This exercise is for spontaneously recalling the(a) German word for a particular thing. With this drill you type the Deutsch word from the current list that matches the definition. Press Return/Enter to submit your answer. 
+
+<img src="img/Was_ist_das_word/Was_wort_Question.png" width=40%><img src="img/Was_ist_das_word/Was_wort_feedback.png" width=40%>
 
 
+#### 4. Partizip II
+This drill is for recalling the correct Partizip II of a verb and its Hilfsverb (either haben or sein). You will be presented on each trial with a verb in infinitive form. You should type the complete sentence (without a full stop) in Perfekt: Es <hat/ist> <Partizip 2>. Press Return/Enter to submit your answer. 
 
-#### Was ist das Wort auf Deutsch?
-#### Partizip II
-#### Plural
+<img src="img/Partizip_II/Partizip_II_Question.png" width=40%><img src="img/Partizip_II/Partizip_II_Feedback.png" width=40%>
 
+
+#### 5. Plural
+This drill is for spontaneously recalling the plural and singular forms of nouns in nominative case. You will be given either a singular or plural form of a noun and you should type the correct singular or plural form with the correct artcle (in nominative case). Press Return/Enter to submit your answer. 
+
+<img src="img/Plural/Plural_Question.png" width=40%><img src="img/Plural/Plural_Feedback.png" width=40%>
