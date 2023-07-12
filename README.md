@@ -48,6 +48,23 @@ Press "OK". You will then see another dialog prompting you to select a folder.
 
 Press "Choose". You should then find several files with a '.p' file extension. These contain the individual word batches. This file format is not human readable but will be used with the app.
 
+<img src="img/Make_word_batches/word_batch_p_files.png" width=40%>
+
+## Running the app
+To run the app locate the file from 'scripts/launch_app.py'. In the computer terminal (Mac/Linux) or Anaconda prompt (Windows) type or copy:
+```
+conda activate ich_lerne_deutsch_env
+python "/Users/hmatth5/Documents/Projects/ich_lerne_deutsch/scripts/launch_app.py"
+```
+Replacing the path on the last line with the path on your computer to the 'launch_app.py' file.
+
+You will be prompted to select a word list from the '.p' files.
+
+<img src="img/Make_word_batches/Select a word batch.png" width=40%>
+
+Then to select an exercise (see below)
+
+<img src="img/Make_word_batches/Select_an_exercise .png" width=40%>
 
 
 
