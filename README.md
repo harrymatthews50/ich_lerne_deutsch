@@ -51,6 +51,7 @@ Press "Choose". You should then find several files with a '.p' file extension. T
 <img src="img/Make_word_batches/word_batch_p_files.png" width=40%>
 
 ## Running the app
+### Launching the app
 To run the app locate the file from 'scripts/launch_app.py'. In the computer terminal (Mac/Linux) or Anaconda prompt (Windows) type or copy:
 ```
 conda activate ich_lerne_deutsch_env
@@ -62,9 +63,35 @@ You will be prompted to select a word list from the '.p' files.
 
 <img src="img/Make_word_batches/Select a word batch.png" width=40%>
 
+
 Then to select an exercise (see below)
 
 <img src="img/Make_word_batches/Select_an_exercise .png" width=40%>
 
+### Exercises
+#### Speicherkarten
+This are traditional flash cards. A word from your list is shown with the definition and (if a Noun) the article and (if a verb) the hilfsverb and Partizip II missing. The idea is that you try to recall the information. You then click to see what was right answer. Below you can see example question and answer cards for each word type.
 
+*Noun*
+
+<img src="img/Speicherkarten/Nomen_side_1.png" width=40%><img src="img/Speicherkarten/Nomen_side_2.png" width=40%>
+
+*Verb*
+
+<img src="img/Speicherkarten/Verb_side_1.png" width=40%><img src="img/Speicherkarten/Verb_side_2.png" width=40%>
+
+*Other*
+
+<img src="img/Speicherkarten/Other_side_1.png" width=40%><img src="img/Speicherkarten/Other_side_2.png" width=40%>
+
+#### Nomen Genus
+This exercise is for recalling the gender of nouns. On each trial you will be shown a singular noun. You should select the correct article in nominative case. You can keep track of your progress with the progress bar at the top. This shows you what proportion of recent trials you answered correctly. When it reaches 100% you have correctly answered for each word five times in a row.
+
+<img src="img/Nomen Genus/Nomen_Genus_Question.png" width=40%><img src="img/Nomen Genus/Nomen_Genus_Feedback.png" width=40%>
+
+
+
+#### Was ist das Wort auf Deutsch?
+#### Partizip II
+#### Plural
 
