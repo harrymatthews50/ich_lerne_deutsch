@@ -36,6 +36,18 @@ Replacing the path on the last line with the path on your computer to the file '
 
 You will see a dialog open, here you can select the '.csv' files containing your word lists (or those that come in the repository)
 
-![Alt text](img/Make_word_batches/Select_csvs.png)
+<img src="img/Make_word_batches/Select_csvs.png" width=40%>
+
+Press "Open". You will then see another dialog. Here enter the approximate number of words you want in each batch. 
+
+<img src="img/Make_word_batches/How_many_words_per_batch.png" width=40%>
+
+Press "OK". You will then see another dialog prompting you to select a folder. 
+
+<img src="img/Make_word_batches/Where to save word batches.png" width=40%>
+
+Press "Choose". You should then find several files with a '.p' file extension. These contain the individual word batches. This file format is not human readable but will be used with the app.
+
+
 
 
