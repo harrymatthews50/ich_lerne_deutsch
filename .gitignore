@@ -1,0 +1,6 @@
+*__pycache__/
+*.txt
+*.DS_STORE
+*.ods
+*.dump
+*ich_lerne_deutsch.egg-info/
