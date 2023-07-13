@@ -16,7 +16,7 @@ when prompted type 'y'. Then
 ```
 conda activate ich_lerne_deutsch_env
 conda install pip
-pip install "/Users/hmatth5/Documents/Projects/ich_lerne_deutsch/dist/ich_lerne_deutsch-0.1-py3-none-any.whl"
+pip install "/Users/hmatth5/Documents/Projects/ich_lerne_deutsch/dist/ich_lerne_deutsch-0.2-py3-none-any.whl"
 ```
 In the last line replace "/Users/....whl" with the path on your computer to the .whl file
 
