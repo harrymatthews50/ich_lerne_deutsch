@@ -1,382 +1,371 @@
-Gender	Singular	Plural	Sentence	Definition
-MAS	Abend	Abend		evening
-MAS	Abflug	Abflüge	Der Abflug ist um 11.20 Uhr.	(flight) departure
-FEM	Ansage	Ansagen	Hören Sie auf die Ansagen.	announcement
-MAS	Anschluss	Anschlüsse	In Mannheim haben Sie Anschluss nach Saarbrücken.	connection
-FEM	Antwort	Antworten	Er gibt leider keine Antwort.	answer
-FEM	Anzeige	Anzeigen	Ich habe Ihre Anzeige in der Zeitung gelesen.	advert
-NEU	Apartment	Apartments	Wir haben ein Apartment gemietet.	apartment
-MAS	Apfel	Äpfel	Ein Pfund Äpfel bitte.	apple
-MAS	Appetit	Appetite	Guten Appetit!	…
-MAS	April	Aprile		April
-FEM	Arbeit	Arbeiten	Mein Bruder sucht Arbeit.	work
-MAS	Arbeitsplatz	Arbeitsplätze	An meinem Arbeitsplatz fehlt ein Drucker.	workplace
-MAS	Arm	Arme	Mein Arm tut weh.	arm
-MAS	Arzt	Ärzte	Morgen habe ich einen Termin bei meiner Ärztin.	doctor
-FEM	Aufgabe	Aufgaben	Das ist eine schwere Aufgabe.	task
-MAS	Aufzug	Aufzüge	In diesem Haus gibt es keinen Aufzug.	lift
-NEU	Auge	Augen	Er hat blaue Augen.	eye
-MAS	August	Auguste		August
-MAS	Ausflug	Ausflüge	Morgen machen wir einen Ausflug nach Heidelberg.	excursion
-MAS	Ausgang	Ausgänge	Wo ist der Ausgang?	exit
-FEM	Auskunft	Auskünfte	Können Sie mir eine Auskunft geben?	information/details
-NEU	Ausland		Fahren Sie ins Ausland?	abroad/overseas
-MAS	Ausländer	Ausländer	Sind Sie Ausländerin?	foreigner
-FEM	Aussage	Aussagen	Ist die Aussage richtig oder falsch?	statement
-MAS	Ausweis	Ausweise	Hier ist mein Ausweis.	identity card
-NEU	Auto	Autos	Er kommt mit dem Auto.	car
-FEM	Autobahn	Autobahnen	Wo geht‘s hier bitte zur Autobahn?	motorway
-MAS	Automat	Automaten	Die Fahrkarten gibt es nur am Automaten.	machine
-NEU	Baby	Babys	Mein Kind ist noch ein Baby.	baby
-FEM	Bäckerei 	Bäckereien	Ich geh mal schnell zur Bäckerei.	bakery
-NEU	Bad	Bäder	Wir haben kein großes Bad.	bathroom
-FEM	Bahn	Bahnen	Wir fahren lieber mit der Bahn.	train
-MAS	Bahnhof	Bahnhöfe	Komme ich hier zum Bahnhof?	train station
-MAS	Bahnsteig	Bahnsteige	Auf welchem Bahnsteig fährt der Zug?	platform
-MAS	Balkon	Balkone	Die Wohnung hat auch einen kleinen Balkon.	balcony
-FEM	Banane	Bananen	Drei Bananen, bitte!	banana
-FEM	Bank	Banken	Die Bank schließt schon um vier Uhr.	bank
-MAS	Bauch	Bäuche	Seit gestern tut mir der Bauch weh.	stomach
-MAS	Baum	Bäume	Vorsicht, fahr nicht an den Baum!	tree
-MAS	Beamte	Beamten	Fragen Sie die Beamtin an Schalter acht!	official
-NEU	Bein	Beine	Mein rechtes Bein tut weh.	leg
-NEU	Beispiel	Beispiele	Kannst du mir ein Beispiel sagen?	example
-MAS	Beruf	Berufe	Was sind Sie von Beruf?	profession
-MAS	Beruf	Berufe	Was ist Ihr Beruf?	occupation
-NEU	Bett	Betten	Wir brauchen noch ein Kinderbett.	bed
-NEU	Bier	Biere	Noch ein Bier bitte.	beer
-NEU	Bild	Bilder	Hast du ein Bild von deinem Sohn?	picture
-FEM	Birne	Birnen	Ein Kilo Birnen, bitte!	pear
-FEM	Bitte	Bitten	Ich habe noch eine Bitte.	request
-MAS	Bleistift	Bleistifte	Hast du einen Bleistift?	pencil
-MAS	Blick	Blicke	Von diesem Hotel hat man einen guten Blick auf den Rhein.	view
-FEM	Blume	Blumen	Gefallen dir die Blumen?	flower
-MAS	Bogen	Bögen	Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.	sheet
-MAS	Brief	Briefe	Haben Sie einen Brief für mich?	letter
-FEM	Briefmarke	Briefmarken	Kaufst du bitte Briefmarken bei der Post.	(postage) stamp
-NEU	Brot	Brote	Haben Sie auch Weißbrot?	bread
-NEU	Brötchen	Brötchen	Möchtest du Brötchen zum Frühstück?	bread roll
-MAS	Bruder	Brüder	Sein Bruder arbeitet auch hier.	brother
-NEU	Buch	Bücher	Gute Bücher sind oft sehr teuer.	book
-MAS	Buchstabe	Buchstaben	Diesen Buchstaben gibt es in meiner Sprache nicht.	letter (character)
-MAS	Bus	Busse	Wann kommt der nächste Bus?	bus
-FEM	Butter		Für mich bitte ein Brötchen mit Butter und Käse.	butter
-NEU	Café	Cafés	Sollen wir uns im Café treffen?	cafe
-FEM	CD	CDs	Bring bitte deine Lieblings-CD mit.	CD
-MAS	Chef	Chefs	Wir haben eine neue Chefin.	boss
-MAS	Computer	Computer	Wann bekommst du deinen neuen Computer?	computer
-FEM	Dame	Damen	Damen (an der Toilette)	lady
-FEM	Dame	Damen	Sehr geehrte Damen und Herren!	lady
-MAS	Dank	Danke	Vielen Dank!	thanks
-NEU	Datum	Daten	Bitte schreiben Sie noch das Datum auf das Formular.	date
-MAS	Dezember	Dezember		December
-MAS	die Bekannte	Die bekannten	Ein Bekannter von mir heißt Klaus.	acquaintance
-MAS	Dienstag	Dienstage		Tuesday
-FEM	Disco	Discos	Heute abend gehen wir in die Disco tanzen.	disco
-MAS	Doktor	Doktoren	Meine Tochter ist krank. Wir gehen zum Doktor.	doctor
-MAS	Donnerstag	Donnerstage		Thursday
-NEU	Doppelzimmer	Doppelzimmer	Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?	double room
-NEU	Dorf	Dörfer	Meine Familie lebt in einem Dorf.	village
-MAS	Drucker	Drucker	Mein Drucker ist kaputt.	printer
-FEM	Durchsage	Durchsagen	Ich habe die Durchsage nicht verstanden.	announcement
-MAS	Durst	Durst	Hast du etwas zu trinken? Ich habe großen Durst.	thirst
-FEM	Dusche	Duschen	Unsere Wohnung hat nur eine Dusche.	shower
-FEM	E-Mail	E-mails	Ich habe Ihre E-Mail nicht bekommen.	email
-FEM	Ecke	Ecken	An der nächsten Ecke links.	corner
-FEM	Ehefrau	Ehefrauen	Das ist meine (Ehe-) Frau.	wife
-MAS	Ehemann	Ehemänner	Das ist mein (Ehe-) Mann.	husband
-NEU	Ei	Eier	Möchtest du ein Ei zum Frühstück?	egg
-MAS	Eingang	Eingänge	Der Eingang ist um die Ecke.	entrance
-FEM	Einladung	Einladungen	Danke für die Einladung!	invitation
-MAS	Eintritt	Eintritt	Der Preis für den Eintritt ist 5 Euro.	entry
-NEU	Einzelzimmer	Einzelzimmer	Haben Sie noch ein Einzelzimmer?	single room
-MAS	Empfänger	Empfänger	Auf dem Brief steht dein Name, also bist du der Empfänger.	recipient
-NEU	Ende	Enden	Sie wohnt am Ende der Straße.	end
-FEM	Entschuldigung	Entschuldigungen	Entschuldigung! / Bitte.	…
-NEU	Ergebnis	Ergebnisse	Das Ergebnis des Tests bekommen Sie in zwei Wochen.	result
-MAS	Erwachsene	Erwachsenen	Dieser Film ist nur für Erwachsene.	adult
-NEU	Essen	Essen	Das Essen ist heute sehr gut.	food
-MAS	Fahrer	Fahrer	Bitte nicht mit dem Fahrer sprechen!	driver
-FEM	Fahrkarte	Fahrkarten	Hast du schon eine Fahrkarte?	(transport) ticket
-NEU	Fahrrad	Fahrräder	Fährst du mit dem Fahrrad oder mit dem Auto?	bicycle
-FEM	Familie	Familien	Meine Familie lebt in Spanien.	family
-MAS	Familienname	Familiennamen	Meine Familiennamen sind García González.	surname
-MAS	Familienstand	Familienstand	Bei „Familienstand“ musst du „ledig“ ankreuzen.	family/marital status
-FEM	Farbe	Farben	Die Farbe gefällt mir gut.	colour
-NEU	Fax	Faxe	Schicken Sie uns einfach ein Fax!	fax
-MAS	Februar	Februare		February
-MAS	Fehler	Fehler	Diesen Fehler mache ich immer.	mistake
-MAS	Feierabend	Feierabende	Wir machen jetzt Feierabend.	end of work/home time
-MAS	Feiertag	Feiertage	Am Montag ist Feiertag.	bank holiday
-NEU	Feuer	Feuern	Haben Sie Feuer?	fire / lighter
-NEU	Fieber	Fieber	Mein Mann hat noch immer Fieber.	fever
-MAS	Film	Filme	Ich möchte gern diesen Film sehen.	film
-FEM	Firma	Firmen	Er arbeitet jetzt bei einer anderen Firma.	company
-MAS	Fisch	Fische	Ich esse gern Fisch. Fleisch mag ich nicht.	fish
-FEM	Flasche	Flaschen	Eine Flasche Bier, bitte.	bottle
-NEU	Fleisch		Fleisch mag ich nicht.	meat
-MAS	Flughafen	Flughäfen	Kannst du mich zum Flughafen bringen?	airport
-NEU	Flugzeug	Flugzeuge	Das Flugzeug aus Berlin kommt heute später an.	aeroplane
-NEU	Formular	Formulare	Sie müssen dieses Formular ausfüllen.	form
-NEU	Foto	Fotos	Darf ich ein Foto machen?	photograph
-FEM	Frage	Fragen	Ich habe eine Frage.	question
-FEM	Frau	Frauen	Das ist Frau Becker.	Ms
-MAS	Freitag	Freitage		Friday
-FEM	Freizeit	Freizeiten	In meiner Freizeit spiele ich oft Fußball.	free time
-MAS	Freund	Freunde	Das ist ein Freund von mir.	friend
-FEM	Freundin	Freundinnen	Das ist meine Freundin.	friend / girlfriend
-NEU	Frühjahr	Frühjahr		spring
-NEU	Frühstück	Frühstücke	Möchtest du ein Ei zum Frühstück?	breakfast
-FEM	Führung	Führungen	Die Führung durch das Haus beginnt in 3 Minuten.	tour
-MAS	Fuß	Füße	Der linke Fuß tut mir weh.	foot
-MAS	Fußball	Fußbälle	Spielt ihr gerne Fußball?	football
-MAS	Garten	Gärten	Wir haben leider keinen Garten.	garden
-MAS	Gast	Gäste	Am Wochenende haben wir mehrere Gäste.	guest
-NEU	Geburtsjahr	Geburtsjahre	Das Geburtsjahr Ihres Sohnes, bitte?	birth year
-MAS	Geburtsort	Geburtsörter	Bitte schreiben Sie Ihren Geburtsort auf das Formular.	birthplace
-MAS	Geburtstag	Geburtstage	Herzlichen Glückwunsch zum Geburtstag!	birthday
-NEU	Geld	Gelder	Hast du noch Geld?	money
-NEU	Gemüse	Gemüse	Gemüse brauchen wir auch noch.	vegetables
-NEU	Gepäck		Wollen Sie Ihr Gepäck mitnehmen?	luggage
-NEU	Geschäft	Geschäfte	Die Geschäfte schließen um 18.30 Uhr.	shop
-NEU	Geschenk	Geschenke	Danke für das schöne Geschenk.	present
-NEU	Geschwister	Geschwister	Ich habe leider keine Geschwister.	siblings
-NEU	Gespräch	Gespräche	Das Gespräch mit Frau Kunz ist um 14 Uhr.	conversation/talk/call
-NEU	Getränk	Getränke	Mein Lieblingsgetränk ist Tomatensaft.	drink
-NEU	Gewicht	Gewichte	Bei „Gewicht“ schreibst du: 62 Kilo.	weight
-NEU	Glas	Gläser	Bitte noch ein Glas Wein!	glass
-NEU	Gleis	Gleise	Der ICE nach Berlin hält heute an Gleis 12.	platform
-NEU	Glück	Glücke	Viel Glück!	luck
-MAS	Glückwunsch	Glückwunsch	Herzlichen Glückwunsch zum Geburtstag.	congratulations
-FEM	Größe	Größen	Haben Sie das auch in Größe 40?	size
-FEM	Großmutter	Großmütter	Meine Großmutter heißt Eva.	grandmother
-MAS	Großvater	Großvater	Mein Großvater ist schon 80.	grandfather
-FEM	Gruppe	Gruppen	Die erste Gruppe beginnt um 16 Uhr.	group
-MAS	Gruß	Grüße	Viele Grüße an Ihre Frau.	regards
-MAS	Gruß	Grüße	Mit freundlichen Grüßen	regards
-NEU	Haar	Haare	Sie hat lange Haare.	hair
-NEU	Hähnchen	Hähnchen	Ein Hähnchen mit Pommes bitte!	chicken
-FEM	Halbpension	Halbpension	Möchten Sie Vollpension oder Halbpension?	half-board (dining)
-FEM	Halle	Hallen	Wir treffen uns in Halle B.	hall
-FEM	Haltestelle	Haltestelle	An der nächsten Haltestelle müssen Sie aussteigen.	(public transport) stop
-FEM	Hand	Hände	Er gibt mir die Hand.	hand
-NEU	Handy	Handys	In der Schule bitte die Handys ausmachen!	mobile telephone
-NEU	Haus	Häuser	In welchem Haus wohnst du?	house / building
-FEM	Hausaufgabe	Hausaufgabe	Kannst du mir bei den Hausaufgaben helfen?	homework
-FEM	Hausfrau	Hausfrauen	Die Hausfrau wäscht, kocht und kauft ein.	housewife
-MAS	Hausmann	Hausmänner	Der Hausmann wäscht, kocht und kauft ein.	househusband
-FEM	Heimat	Heimaten	Ich komme aus der Schweiz. Das ist meine Heimat.	home
-MAS	Herbst	Herbste		autumn
-MAS	Herd	Herde	In der neuen Küche fehlt noch der Herd.	stove
-MAS	Herr	Herren	Guten Tag, Herr Sommer!	Mister
-FEM	Hilfe	Hilfen	Hilfe! Bitte helfen Sie mir!	help
-NEU	Hobby	Hobbys	Meine Hobbys sind Wandern und Schwimmen.	hobby
-FEM	Hochzeit	Hochzeiten	Zur dieser Hochzeit kommen mehr als fünfzig Gäste.	marriage
-NEU	Hotel	Hotels	Im Urlaub sind wir in einem Hotel am Meer.	hotel
-MAS	Hund	Hunde	Der Hund ist noch jung.	dog
-MAS	Hunger	Hunger	Ich habe Hunger! Wann ist das Essen fertig?	hunger
-FEM	Information	Informationen	Wenn Sie Fragen haben, gehen Sie zur Information.	information point
-NEU	Internet		Das findest du im Internet.	internet
-FEM	Jacke	Jacken	Zieh dir eine Jacke an. Es ist kalt.	jacket
-NEU	Jahr	Jahre		year
-MAS	Januar	Januare		January
-MAS	Job	Jobs	Jenny hat einen neuen Job bei der Post.	job
-MAS	Jugendliche	Jugendlichen	Viele Jugendliche kaufen gern ein.	youth/young person
-MAS	Juli	Julis		July
-MAS	Junge	Jungen	Ich habe zwei Kinder. Einen Jungen und ein Mädchen.	boy
-MAS	Juni	Junis		June
-MAS	Kaffee	Kaffees	Zum Frühstück trinke ich immer Kaffee.	coffee
-FEM	Karte	Karten	Kann ich auch mit Karte (be-) zahlen?	(credit) card
-FEM	Karte	Karten	Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.	menu
-FEM	Kartoffel	Kartoffeln	Für Pommes frites braucht man Kartoffeln.	potato
-FEM	Kasse	Kassen	Zahlen Sie bitte an der Kasse.	till
-NEU	Kind	Kinder	Wie viele Kinder haben Sie?	child
-MAS	Kindergarten	Kindergärten	Die kleine Laura geht schon in den Kindergarten.	kindergarten
-NEU	Kino	Kinos	Wir sehen heute Abend im Kino einen schönen Film.	cinema
-MAS	Kiosk	Kioske	Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.	kiosk
-FEM	Klasse	Klassen	Im Zug fahre ich immer 2. Klasse.	class
-FEM	Kleidung	Kleidungen	Wo finde ich Kleidung? / Jacken im ersten, Jeans im zweiten Stock.	clothes
-MAS	Koffer	Koffer	Ist das Ihr Koffer?	suitcase
-MAS	Kollege	Kollegen	ßt die neue Kollegin?	colleague
-NEU	Konto	Kontos	Das Geld überweisen wir am ersten März auf Ihr Konto.	account
-MAS	Kopf	Köpfe	Mein Kopf tut weh!	head
-FEM	Küche	Küchen	Der neue Herd kommt in die Küche.	kitchen
-MAS	Kuchen	Kuchen	Ich nehme ein Stück Kuchen.	cake
-MAS	Kugelschreiber	Kugelschreiber	Hast du einen Kugelschreiber für mich?	ball-point pen
-MAS	Kühlschrank	Kühlschrank	Haben wir noch Milch? / Ja, im Kühlschrank.	fridge
-MAS	Kunde	Kunden	Einen Moment, bitte. Ich habe eine Kundin.	customer
-MAS	Kurs	Kurse	Der Deutschkurs geht bis zum Sommer.	course
-MAS	Laden	Läden	Im Buchladen können Sie Bücher kaufen.	shop
-NEU	Land	Länder	Italien ist ein schönes Land.	country
-NEU	Leben	Leben	Das Leben in diesem Land ist teuer.	life
-MAS	Lehrer	Lehrer	Unsere Deutschlehrerin heißt Frau Müller.	teacher
-NEU	Licht	Lichter	Wo macht man hier das Licht an?	light
-NEU	Lied	Lieder	Welches ist dein Lieblingslied?	song
-MAS	Lkw	Lkws	Dieser Lastkraftwagen ist sehr groß.	HGV
-NEU	Lokal	Lokale	In unserer Straße gibt es ein neues Lokal.	pub
-FEM	Lösung	Lösungen	Die Lösung ist ganz einfach.	solution
-NEU	Mädchen	Mädchen	Familie Kurz bekommt ein Baby. / Junge oder Mädchen?	girl
-MAS	Mai	Mai		May
-MAS	Mann	Männer	Mein Mann arbeitet bei der Polizei.	man / husband
-MAS	März	Märze		March
-FEM	Maschine	Maschinen	Die Waschmaschine ist günstig.	machine
-NEU	Meer	Meere	Wir machen Urlaub am Meer.	sea
-MAS	Mensch	Menschen	Die Menschen sind hier anders als bei uns.	people
-FEM	Miete	Mieten	Die Miete für diese Wohnung ist 600 Euro.	rent
-FEM	Milch	Milchen	Die Milch steht im Kühlschrank.	milk
-FEM	Minute	Minuten		minute
-MAS	Mittag	Mittage		midday
-FEM	Mitte	Mitten	Der Lehrer steht in der Mitte des Klassenzimmers.	middle
-MAS	Mittwoch	Mittwoche		Wednesday
-MAS	Moment	Momente	Moment mal bitte!	moment
-MAS	Montag	Montage		Monday
-MAS	Morgen	Morgen		morning
-MAS	Mund	Münder	Öffnen Sie den Mund.	mouth
-FEM	Mutter	Mütter	Frau Berghäuser ist die Mutter von Michaela.	mother
-MAS	Nachmittag	Nachmittag		afternoon
-FEM	Nacht	Nächte		night
-MAS	Name	Namen	Mein Name ist Thomas Schmidt.	name
-MAS	Name	Namen	Mein Vorname ist Thomas, Schmidt ist der Familienname.	name
-MAS	Norden	Norden		north
-MAS	November	November		November
-FEM	Nummer	Nummern	Welche Hausnummer haben Sie?	number
-NEU	Obst		Im Sommer ist das Obst billig.	fruit
-MAS	Oktober	Oktober		October
-NEU	Öl	Öle	Den Salat machen wir ohne Öl.	oil
-FEM	Oma	Omas	Meine Oma ist schon tot.	grandmother
-MAS	Opa	Opas	Mein Opa heißt Hans.	grandfather
-FEM	Ordnung	Ordnungen	Das ist in Ordnung.	…
-MAS	Ort	Orte	Der Ort liegt am Meer.	location / place
-MAS	Osten	Osten		east
-NEU	Papier	Papiere	Hier sind Papier und Bleistift.	paper
-NEU	Papier	Papiere	Haben Sie Ihre Papiere dabei?	papers
-MAS	Partner	Partner	Er is mein Partner.	(male) partner
-FEM	Partnerin	Partnerinnen	Sie ist meine Partnerin.	(female) partner
-FEM	Party	Partys	Heute Abend machen wir eine Party.	party
-MAS	Pass	Pässe	Im Hotel brauchst du deinen Pass.	passport
-FEM	Pause	Pausen	Von 12:00 bis 12:30 Uhr haben wir Mittagspause.	break
-MAS	Plan	Pläne	Ich kaufe mir einen Stadtplan.	map / plan
-MAS	Platz	Plätze	Tut mir leid, der Platz ist besetzt.	seat
-MAS	Platz	Plätze	Bitte nehmen Sie Platz!	seat
-MAS	Platz	Plätze	Ich wohne neben dem Platz.	square
-FEM	Polizei	Polizeien	Holen Sie die Polizei!	police
-FEM	Post	Posten	Wo ist die Post, bitte?	post office
-FEM	Postleitzahl	Postleitzahlen	Wie ist Ihre Postleitzahl?	postcode
-NEU	Praktikum	Praktika	Ich mache ein Praktikum bei Siemens.	internship
-FEM	Praxis	Praxen	Die Praxis ist ab acht Uhr geöffnet.	practice
-MAS	Preis	Preise	Die Preise sind hoch.	price
-NEU	Problem	Probleme	Mein Problem ist die Sprache.	problem
-MAS	Prospekt	Prospekte	Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.	brochure
-FEM	Prüfung	Prüfungen	Die Prüfung ist am Montag um 8:00 Uhr.	examination
-MAS	Raum	Räume	Der Unterricht ist in Raum 332.	room
-FEM	Rechnung	Rechnungen	Die Rechnung, bitte.	bill
-MAS	Regen	Regen	Bei diesem Regen gehe ich nicht raus.	rain
-MAS	Reis	Reiser	Ich esse gern Reis.	rice
-FEM	Reise	Reisen	Wir machen eine Reise nach Österreich.	journey / trip
-NEU	Reisebüro	Reisebüros	Mein Mann arbeitet im Reisebüro.	travel agency
-MAS	Reiseführer	Reiseführer	Ich kaufe mir einen Reiseführer von Berlin.	travel guide
-FEM	Reparatur	Reparaturen	Die Reparatur ist sehr teuer.	repair
-NEU	Restaurant	Restaurants	Wir essen heute in einem Restaurant.	restaurant
-FEM	Rezeption	Rezeptionen	Fragen Sie bitte im Hotel an der Rezeption.	reception
-FEM	S-Bahn	S-Bahn	Ich nehme lieber die S-Bahn.	commuter train
-MAS	Saft	Säfte	Möchtest du einen Apfelsaft?	juice
-MAS	Salat	Salate	Wie schmeckt dir der Salat?	salad
-NEU	Salz	Salze	Entschuldigung, kann ich bitte das Salz haben?	salt
-MAS	Samstag	Samstage		Saturday
-MAS	Satz	Sätze	Dieser Satz ist sehr einfach.	sentence
-MAS	Schalter	Schalter	Gehen Sie bitte zum Schalter drei!	counter
-NEU	Schild	Schilder	Haben Sie nicht das Schild gesehen?	sign
-MAS	Schinken	Schinken	Ich möchte gern ein Schinkenbrot.	ham
-MAS	Schluss	Schlüsse	Zum Schluss gibt er uns allen die Hand.	end
-MAS	Schlüssel	Schlüssel	Ich gebe Ihnen noch den Zimmerschlüssel.	key
-MAS	Schrank	Schränke	Die Gläser stehen im Schrank.	cupboard
-MAS	Schuh	Schuhe	Zieh die Schuhe aus!	shoe
-FEM	Schule	Schulen	Meine Tochter geht schon in die Schule.	school
-MAS	Schüler	Schüler	In meinem Kurs sind acht Schülerinnen und fünf Schüler.	pupil
-FEM	Schwester	Schwestern	Meine Schwester kommt am Dienstag.	sister
-NEU	Schwimmbad	Schwimmbäder	Kommst du mit ins Schwimmbad?	swimming pool
-MAS	See	Seen	Komm, wir fahren zum Starnberger See.	lake
-FEM	Sehenswürdigkeit	Sehenswürdigkeiten	Welche Sehenswürdigkeiten gibt es in Frankfurt?	sights/attractions
-FEM	Sekunde	Sekunden		second
-MAS	September	September		September
-NEU	Sofa	Sofas	Das Sofa ist neu.	sofa
-MAS	Sohn	Söhne	Das ist Hans, mein Sohn.	son
-MAS	Sommer	Sommer		summer
-FEM	Sonne	Sonnen	Die Sonne scheint.	sun
-MAS	Sonntag	Sonntage		Sunday
-FEM	Speisekarte	Speisekarten	Bringen Sie mir die Speisekarte, bitte.	menu
-MAS	Sport	Sporte	Ich mache viel Sport.	sport
-FEM	Sprache	Sprachen	Welche Sprachen sprichst du?	language
-FEM	Stadt	Städte	Heidelberg ist eine alte Stadt.	town / city
-FEM	Stelle	Stellen	Ich habe eine neue Stelle.	job / position
-MAS	Stock	Stöcke	Unsere Wohnung liegt im ersten Stock.	floor (of a building)
-FEM	Straße	Straßen	In welcher Straße wohnen Sie?	street
-FEM	Straßenbahn	Straßenbahn	Wo fährt die Straßenbahn ab?	tram
-MAS	Student	Studenten	Ich bin Studentin.	student
-NEU	Studium	Studien	Das Studium beginnt im Oktober.	degree course
-FEM	Stunde	Stunden	Ich bin in einer Stunde zurück.	hour
-MAS	Süden	Süden		south
-MAS	Tag	Tage		day
-FEM	Tasche	Taschen	Ich habe die Schlüssel in der Tasche.	bag
-NEU	Taxi	Taxis	Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.	taxi
-MAS	Tee	Tees	Ich trinke morgens immer Tee.	tea
-MAS	Teil	Teile	Lies bitte auch den zweiten Teil.	part
-NEU	Telefon	Telefone	Haben Sie ein Telefon?	telephone
-MAS	Termin	Termine	Am besten machen wir sofort einen Termin.	appointment
-MAS	Test	Teste	Der Test war einfach.	test
-MAS	Text	Texte	Lesen Sie bitte diesen Text.	text
-NEU	Thema	Themata	Wir sprechen heute über das Thema „Essen und Trinken“.	topic
-NEU	Ticket	Tickets	Wie viel kostet das Ticket?	ticket
-MAS	Tisch	Tische	Die Fotos liegen auf dem Tisch.	table
-FEM	Tochter	Töchter	Das ist meine Tochter Katharina.	daughter
-FEM	Toilette	Toiletteen	Wo ist die Toilette, bitte?	toilet
-FEM	Tomate	Tomaten	Die Tomate ist noch grün.	tomato
-FEM	Treppe	Treppen	Die Toilette? Die Treppe hoch und dann links.	stairs
-FEM	Uhr	Uhr	Es ist vier Uhr.	o'clock / am / pm
-MAS	Unterricht	Unterrichte	Wir haben Unterricht von 8:00 bis 12:00 Uhr.	class
-FEM	Unterschrift	Unterschriften	Hier fehlt noch Ihre Unterschrift.	signature
-MAS	Urlaub	Urlaube	Ich nehme im September Urlaub.	holiday
-MAS	Vater	Väter	Mein Vater ist Arbeiter.	father
-MAS	Verein	Vereine	Es gibt einen neuen Sportverein in der Stadt.	club
-MAS	Verkäufer	Verkäufer	Meine Mutter ist Verkäuferin im Kaufhaus.	salesperson
-MAS	Vermieter	Vermieter	Unser Vermieter heißt Huber. Er wohnt auch hier.	landlord
-MAS	Verwandte	Verwandten	Peter besucht seine Verwandten in Polen.	relative
-MAS	Vormittag	Vormittag		morning
-MAS	Vorname	Vornamen	Ich heiße Müller, mein Vorname ist Eva.	first name
-FEM	Vorsicht	Vorsicht	Vorsicht! Da kommt ein Auto.	…
-FEM	Vorwahl	Vorwahlen	Wie ist die Vorwahl von München?	area code
-NEU	Wasser	Wasser	Ein Glas Wasser, bitte.	water
-MAS	Wein	Weine	Nein danke, ich möchte keinen Wein.	wine
-FEM	Welt	Welten	Es gibt viele Probleme auf der Welt.	world
-MAS	Westen	Westen		west
-NEU	Wetter	Wetter	Wir hatten schlechtes Wetter.	weather
-NEU	Wiederhören		Auf Wiederhören!	…
-NEU	Wiedersehen		Auf Wiedersehen!	…
-MAS	Wind	Winde	Der Wind kommt aus Osten.	wind
-MAS	Winter	Winter		winter
-FEM	Woche	Wochen		week
-NEU	Wochenende	Wochenenden		weekend
-MAS	Wochentag	Wochentage		weekday
-FEM	Wohnung	Wohnungen	Seit wann haben Sie diese Wohnung?	flat
-NEU	Wort	Wörter	Ich kenne das Wort nicht.	word
-NEU	Wörterbuch	Wörterbücher	In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.	dictionary
-FEM	Zeit	Zeiten	Ich habe heute keine Zeit.	time
-FEM	Zeitung	Zeitungen	Ich lese gern Zeitung.	newspaper
-FEM	Zigarette	Zigaretten	Wie teuer sind die Zigaretten?	cigarette
-NEU	Zimmer	Zimmer	Das Zimmer ist groß.	room
-NEU	Zimmer	Zimmer	Öffne im Schlafzimmer das Fenster, bitte!	room
-NEU	Zimmer	Zimmer	Die Wohnung hat drei Zimmer.	room
-NEU	Zimmer	Zimmer	Ich habe ein Zimmer bestellt.	room
-MAS	Zoll	Zölle	Wir müssen noch durch den Zoll.	customs
-MAS	Zug	Züge	Ich fahre gern mit dem Zug.	train
-NOG		Eltern	Meine Eltern leben in Spanien.	parents
-NOG		Großeltern	Meine Großeltern leben in Japan.	grandparents
-NOG		Lebensmittel	Lebensmittel bekommen Sie im Supermarkt.	food
-NOG		Leute	In der Disko sind viele Leute.	people
-NOG		Möbel	Sind die Möbel neu?	furniture
-NOG		Pommes frites	Die Kinder essen Hähnchen mit Pommes frites.	chips
-MAS	Bildschirm	Bildschirme		a (e.g. computer) screen
-MAS	Supermarkt	Supermärkte		supermarket
-MAS	Kundenservice			customer service
-MAS	Fernseher	Fernseher		television set
-NEU	Vokabular	Vokabulare		vocabulary
+Gender	Singular	Plural	Sentence	Definition	
+MAS	Abend	Abende		the evening	FALSE
+MAS	Abflug	Abflüge	Der Abflug ist um 11.20 Uhr.	the (flight) departure	FALSE
+FEM	Ansage	Ansagen	Hören Sie auf die Ansagen.	the announcement	FALSE
+MAS	Anschluss	Anschlüsse	In Mannheim haben Sie Anschluss nach Saarbrücken.	the connection	FALSE
+FEM	Antwort	Antworten	Er gibt leider keine Antwort.	the answer	FALSE
+FEM	Anzeige	Anzeigen	Ich habe Ihre Anzeige in der Zeitung gelesen.	the advert	FALSE
+NEU	Apartment	Apartments	Wir haben ein Apartment gemietet.	the apartment	FALSE
+MAS	Apfel	Äpfel	Ein Pfund Äpfel bitte.	the apple	FALSE
+MAS	Appetit	Appetite	Guten Appetit!	the appetite	FALSE
+MAS	April	Aprile		the April	FALSE
+FEM	Arbeit	Arbeiten	Mein Bruder sucht Arbeit.	the work	FALSE
+MAS	Arbeitsplatz	Arbeitsplätze	An meinem Arbeitsplatz fehlt ein Drucker.	the workplace	FALSE
+MAS	Arm	Arme	Mein Arm tut weh.	the arm	FALSE
+MAS	Arzt	Ärzte	Morgen habe ich einen Termin bei meiner Ärztin.	the doctor	FALSE
+FEM	Aufgabe	Aufgaben	Das ist eine schwere Aufgabe.	the task	FALSE
+MAS	Aufzug	Aufzüge	In diesem Haus gibt es keinen Aufzug.	the lift	FALSE
+NEU	Auge	Augen	Er hat blaue Augen.	the eye	FALSE
+MAS	August	Auguste		the August	FALSE
+MAS	Ausflug	Ausflüge	Morgen machen wir einen Ausflug nach Heidelberg.	the excursion	FALSE
+MAS	Ausgang	Ausgänge	Wo ist der Ausgang?	the exit	FALSE
+FEM	Auskunft	Auskünfte	Können Sie mir eine Auskunft geben?	the information/details	FALSE
+NEU	Ausland		Fahren Sie ins Ausland?	the country that is abroad/overseas	FALSE
+MAS	Ausländer	Ausländer	Sind Sie Ausländerin?	the foreigner	TRUE
+FEM	Aussage	Aussagen	Ist die Aussage richtig oder falsch?	the statement	FALSE
+MAS	Ausweis	Ausweise	Hier ist mein Ausweis.	the identity card	FALSE
+NEU	Auto	Autos	Er kommt mit dem Auto.	the car	FALSE
+FEM	Autobahn	Autobahnen	Wo geht‘s hier bitte zur Autobahn?	the motorway	FALSE
+MAS	Automat	Automaten	Die Fahrkarten gibt es nur am Automaten.	the machine	FALSE
+NEU	Baby	Babys	Mein Kind ist noch ein Baby.	the baby	FALSE
+FEM	Bäckerei 	Bäckereien	Ich geh mal schnell zur Bäckerei.	the bakery	FALSE
+NEU	Bad	Bäder	Wir haben kein großes Bad.	the bathroom	FALSE
+FEM	Bahn	Bahnen	Wir fahren lieber mit der Bahn.	the train	FALSE
+MAS	Bahnhof	Bahnhöfe	Komme ich hier zum Bahnhof?	the train station	FALSE
+MAS	Bahnsteig	Bahnsteige	Auf welchem Bahnsteig fährt der Zug?	the platform	FALSE
+MAS	Balkon	Balkone	Die Wohnung hat auch einen kleinen Balkon.	the balcony	FALSE
+FEM	Banane	Bananen	Drei Bananen, bitte!	the banana	FALSE
+FEM	Bank	Banken	Die Bank schließt schon um vier Uhr.	the bank	FALSE
+MAS	Bauch	Bäuche	Seit gestern tut mir der Bauch weh.	the stomach	FALSE
+MAS	Baum	Bäume	Vorsicht, fahr nicht an den Baum!	the tree	FALSE
+MAS	Beamte	Beamten	Fragen Sie die Beamtin an Schalter acht!	the official	FALSE
+NEU	Bein	Beine	Mein rechtes Bein tut weh.	the leg	FALSE
+NEU	Beispiel	Beispiele	Kannst du mir ein Beispiel sagen?	the example	FALSE
+MAS	Beruf	Berufe	Was sind Sie von Beruf?	the profession	FALSE
+NEU	Bett	Betten	Wir brauchen noch ein Kinderbett.	the bed	FALSE
+NEU	Bier	Biere	Noch ein Bier bitte.	the beer	FALSE
+NEU	Bild	Bilder	Hast du ein Bild von deinem Sohn?	the picture	FALSE
+FEM	Birne	Birnen	Ein Kilo Birnen, bitte!	the pear	FALSE
+FEM	Bitte	Bitten	Ich habe noch eine Bitte.	the request	FALSE
+MAS	Bleistift	Bleistifte	Hast du einen Bleistift?	the pencil	FALSE
+MAS	Blick	Blicke	Von diesem Hotel hat man einen guten Blick auf den Rhein.	the view	FALSE
+FEM	Blume	Blumen	Gefallen dir die Blumen?	the flower	FALSE
+MAS	Bogen	Bögen	Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.	the sheet	FALSE
+MAS	Brief	Briefe	Haben Sie einen Brief für mich?	the letter	FALSE
+FEM	Briefmarke	Briefmarken	Kaufst du bitte Briefmarken bei der Post.	the (postage) stamp	FALSE
+NEU	Brot	Brote	Haben Sie auch Weißbrot?	the bread	FALSE
+NEU	Brötchen	Brötchen	Möchtest du Brötchen zum Frühstück?	the bread roll	TRUE
+MAS	Bruder	Brüder	Sein Bruder arbeitet auch hier.	the brother	FALSE
+NEU	Buch	Bücher	Gute Bücher sind oft sehr teuer.	the book	FALSE
+MAS	Buchstabe	Buchstaben	Diesen Buchstaben gibt es in meiner Sprache nicht.	the letter (character)	FALSE
+MAS	Bus	Busse	Wann kommt der nächste Bus?	the bus	FALSE
+FEM	Butter		Für mich bitte ein Brötchen mit Butter und Käse.	the butter	FALSE
+NEU	Café	Cafés	Sollen wir uns im Café treffen?	the cafe	FALSE
+FEM	CD	CDs	Bring bitte deine Lieblings-CD mit.	the CD	FALSE
+MAS	Chef	Chefs	Wir haben eine neue Chefin.	the boss	FALSE
+MAS	Computer	Computer	Wann bekommst du deinen neuen Computer?	the computer	TRUE
+FEM	Dame	Damen	Sehr geehrte Damen und Herren!	the lady	FALSE
+MAS	Dank		Vielen Dank!	the thanks	FALSE
+NEU	Datum	Daten	Bitte schreiben Sie noch das Datum auf das Formular.	the date	FALSE
+MAS	Dezember	Dezember		the December	TRUE
+FEM	Bekannte	Bekannten	Ein Bekannter von mir heißt Klaus.	the (female) acquaintance	FALSE
+MAS	Dienstag	Dienstage		the Tuesday	FALSE
+FEM	Disco	Discos	Heute abend gehen wir in die Disco tanzen.	the disco	FALSE
+MAS	Doktor	Doktoren	Meine Tochter ist krank. Wir gehen zum Doktor.	the doctor	FALSE
+MAS	Donnerstag	Donnerstage		the Thursday	FALSE
+NEU	Doppelzimmer	Doppelzimmer	Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?	the double room	TRUE
+NEU	Dorf	Dörfer	Meine Familie lebt in einem Dorf.	the village	FALSE
+MAS	Drucker	Drucker	Mein Drucker ist kaputt.	the printer	TRUE
+FEM	Durchsage	Durchsagen	Ich habe die Durchsage nicht verstanden.	the announcement	FALSE
+MAS	Durst		Hast du etwas zu trinken? Ich habe großen Durst.	the thirst	FALSE
+FEM	Dusche	Duschen	Unsere Wohnung hat nur eine Dusche.	the shower	FALSE
+FEM	E-Mail	E-mails	Ich habe Ihre E-Mail nicht bekommen.	the email	FALSE
+FEM	Ecke	Ecken	An der nächsten Ecke links.	the corner	FALSE
+FEM	Ehefrau	Ehefrauen	Das ist meine (Ehe-) Frau.	the wife	FALSE
+MAS	Ehemann	Ehemänner	Das ist mein (Ehe-) Mann.	the husband	FALSE
+NEU	Ei	Eier	Möchtest du ein Ei zum Frühstück?	the egg	FALSE
+MAS	Eingang	Eingänge	Der Eingang ist um die Ecke.	the entrance	FALSE
+FEM	Einladung	Einladungen	Danke für die Einladung!	the invitation	FALSE
+MAS	Eintritt	Eintritt	Der Preis für den Eintritt ist 5 Euro.	the entry	TRUE
+NEU	Einzelzimmer	Einzelzimmer	Haben Sie noch ein Einzelzimmer?	the single room	TRUE
+MAS	Empfänger	Empfänger	Auf dem Brief steht dein Name, also bist du der Empfänger.	the recipient	TRUE
+NEU	Ende	Enden	Sie wohnt am Ende der Straße.	the end	FALSE
+FEM	Entschuldigung	Entschuldigungen	Entschuldigung! / Bitte.	the excuse	FALSE
+NEU	Ergebnis	Ergebnisse	Das Ergebnis des Tests bekommen Sie in zwei Wochen.	the result	FALSE
+MAS	Erwachsene	Erwachsenen	Dieser Film ist nur für Erwachsene.	the adult	FALSE
+NEU	Essen	Essen	Das Essen ist heute sehr gut.	the food	TRUE
+MAS	Fahrer	Fahrer	Bitte nicht mit dem Fahrer sprechen!	the driver	TRUE
+FEM	Fahrkarte	Fahrkarten	Hast du schon eine Fahrkarte?	the (transport) ticket	FALSE
+NEU	Fahrrad	Fahrräder	Fährst du mit dem Fahrrad oder mit dem Auto?	the bicycle	FALSE
+FEM	Familie	Familien	Meine Familie lebt in Spanien.	the family	FALSE
+MAS	Familienname	Familiennamen	Meine Familiennamen sind García González.	the surname	FALSE
+MAS	Familienstand		Bei „Familienstand“ musst du „ledig“ ankreuzen.	the family/marital status	FALSE
+FEM	Farbe	Farben	Die Farbe gefällt mir gut.	the colour	FALSE
+NEU	Fax	Faxe	Schicken Sie uns einfach ein Fax!	the fax	FALSE
+MAS	Februar	Februare		the February	FALSE
+MAS	Fehler	Fehler	Diesen Fehler mache ich immer.	the mistake	TRUE
+MAS	Feierabend	Feierabende	Wir machen jetzt Feierabend.	the end of work/home time	FALSE
+MAS	Feiertag	Feiertage	Am Montag ist Feiertag.	the bank holiday	FALSE
+NEU	Feuer	Feuern	Haben Sie Feuer?	the fire / lighter	FALSE
+NEU	Fieber	Fieber	Mein Mann hat noch immer Fieber.	the fever	TRUE
+MAS	Film	Filme	Ich möchte gern diesen Film sehen.	the film	FALSE
+FEM	Firma	Firmen	Er arbeitet jetzt bei einer anderen Firma.	the company	FALSE
+MAS	Fisch	Fische	Ich esse gern Fisch. Fleisch mag ich nicht.	the fish	FALSE
+FEM	Flasche	Flaschen	Eine Flasche Bier, bitte.	the bottle	FALSE
+NEU	Fleisch		Fleisch mag ich nicht.	the meat	FALSE
+MAS	Flughafen	Flughäfen	Kannst du mich zum Flughafen bringen?	the airport	FALSE
+NEU	Flugzeug	Flugzeuge	Das Flugzeug aus Berlin kommt heute später an.	the aeroplane	FALSE
+NEU	Formular	Formulare	Sie müssen dieses Formular ausfüllen.	the form	FALSE
+NEU	Foto	Fotos	Darf ich ein Foto machen?	the photograph	FALSE
+FEM	Frage	Fragen	Ich habe eine Frage.	the question	FALSE
+FEM	Frau	Frauen	Das ist Frau Becker.	the woman	FALSE
+MAS	Freitag	Freitage		the Friday	FALSE
+FEM	Freizeit	Freizeiten	In meiner Freizeit spiele ich oft Fußball.	the free time	FALSE
+MAS	Freund	Freunde	Das ist ein Freund von mir.	the friend (male)	FALSE
+FEM	Freundin	Freundinnen	Das ist meine Freundin.	the friend (female)	FALSE
+NEU	Frühjahr	Frühjahre		the spring	FALSE
+NEU	Frühstück	Frühstücke	Möchtest du ein Ei zum Frühstück?	the breakfast	FALSE
+FEM	Führung	Führungen	Die Führung durch das Haus beginnt in 3 Minuten.	the tour	FALSE
+MAS	Fuß	Füße	Der linke Fuß tut mir weh.	the foot	FALSE
+MAS	Fußball	Fußbälle	Spielt ihr gerne Fußball?	the football	FALSE
+MAS	Garten	Gärten	Wir haben leider keinen Garten.	the garden	FALSE
+MAS	Gast	Gäste	Am Wochenende haben wir mehrere Gäste.	the guest	FALSE
+NEU	Geburtsjahr	Geburtsjahre	Das Geburtsjahr Ihres Sohnes, bitte?	the birth year	FALSE
+MAS	Geburtsort	Geburtsörter	Bitte schreiben Sie Ihren Geburtsort auf das Formular.	the birthplace	FALSE
+MAS	Geburtstag	Geburtstage	Herzlichen Glückwunsch zum Geburtstag!	the birthday	FALSE
+NEU	Geld	Gelder	Hast du noch Geld?	the money	FALSE
+NEU	Gemüse		Gemüse brauchen wir auch noch.	the vegetables	FALSE
+NEU	Gepäck		Wollen Sie Ihr Gepäck mitnehmen?	the luggage	FALSE
+NEU	Geschäft	Geschäfte	Die Geschäfte schließen um 18.30 Uhr.	the shop	FALSE
+NEU	Geschenk	Geschenke	Danke für das schöne Geschenk.	the present	FALSE
+NEU	Geschwister	Geschwister	Ich habe leider keine Geschwister.	the siblings	TRUE
+NEU	Gespräch	Gespräche	Das Gespräch mit Frau Kunz ist um 14 Uhr.	the conversation/talk/call	FALSE
+NEU	Getränk	Getränke	Mein Lieblingsgetränk ist Tomatensaft.	the drink	FALSE
+NEU	Gewicht	Gewichte	Bei „Gewicht“ schreibst du: 62 Kilo.	the weight	FALSE
+NEU	Glas	Gläser	Bitte noch ein Glas Wein!	the glass	FALSE
+NEU	Gleis	Gleise	Der ICE nach Berlin hält heute an Gleis 12.	the platform	FALSE
+NEU	Glück	Glücke	Viel Glück!	the luck	FALSE
+MAS	Glückwunsch	Glückwunsche	Herzlichen Glückwunsch zum Geburtstag.	the congratulations	FALSE
+FEM	Größe	Größen	Haben Sie das auch in Größe 40?	the size	FALSE
+FEM	Großmutter	Großmütter	Meine Großmutter heißt Eva.	the grandmother	FALSE
+MAS	Großvater	Großväter	Mein Großvater ist schon 80.	the grandfather	FALSE
+FEM	Gruppe	Gruppen	Die erste Gruppe beginnt um 16 Uhr.	the group	FALSE
+MAS	Gruß	Grüße	Viele Grüße an Ihre Frau.	the regards	FALSE
+NEU	Haar	Haare	Sie hat lange Haare.	the hair	FALSE
+NEU	Hähnchen	Hähnchen	Ein Hähnchen mit Pommes bitte!	the chicken	TRUE
+FEM	Halbpension		Möchten Sie Vollpension oder Halbpension?	the half-board (dining)	FALSE
+FEM	Halle	Hallen	Wir treffen uns in Halle B.	the hall	FALSE
+FEM	Haltestelle	Haltestellen	An der nächsten Haltestelle müssen Sie aussteigen.	the (public transport) stop	FALSE
+FEM	Hand	Hände	Er gibt mir die Hand.	the hand	FALSE
+NEU	Handy	Handys	In der Schule bitte die Handys ausmachen!	the mobile telephone	FALSE
+NEU	Haus	Häuser	In welchem Haus wohnst du?	the house / building	FALSE
+FEM	Hausaufgabe	Hausaufgaben	Kannst du mir bei den Hausaufgaben helfen?	the homework	FALSE
+FEM	Hausfrau	Hausfrauen	Die Hausfrau wäscht, kocht und kauft ein.	the housewife	FALSE
+MAS	Hausmann	Hausmänner	Der Hausmann wäscht, kocht und kauft ein.	the househusband	FALSE
+FEM	Heimat	Heimaten	Ich komme aus der Schweiz. Das ist meine Heimat.	the home	FALSE
+MAS	Herbst	Herbste		the autumn	FALSE
+MAS	Herd	Herde	In der neuen Küche fehlt noch der Herd.	the stove	FALSE
+MAS	Herr	Herren	Guten Tag, Herr Sommer!	the Mister	FALSE
+FEM	Hilfe	Hilfen	Hilfe! Bitte helfen Sie mir!	the help	FALSE
+NEU	Hobby	Hobbys	Meine Hobbys sind Wandern und Schwimmen.	the hobby	FALSE
+FEM	Hochzeit	Hochzeiten	Zur dieser Hochzeit kommen mehr als fünfzig Gäste.	the marriage	FALSE
+NEU	Hotel	Hotels	Im Urlaub sind wir in einem Hotel am Meer.	the hotel	FALSE
+MAS	Hund	Hunde	Der Hund ist noch jung.	the dog	FALSE
+MAS	Hunger		Ich habe Hunger! Wann ist das Essen fertig?	the hunger	FALSE
+FEM	Information	Informationen	Wenn Sie Fragen haben, gehen Sie zur Information.	the information point	FALSE
+NEU	Internet		Das findest du im Internet.	the internet	FALSE
+FEM	Jacke	Jacken	Zieh dir eine Jacke an. Es ist kalt.	the jacket	FALSE
+NEU	Jahr	Jahre		the year	FALSE
+MAS	Januar	Januare		the January	FALSE
+MAS	Job	Jobs	Jenny hat einen neuen Job bei der Post.	the job	FALSE
+MAS	Jugendliche	Jugendlichen	Viele Jugendliche kaufen gern ein.	the youth/young person	FALSE
+MAS	Juli	Julis		the July	FALSE
+MAS	Junge	Jungen	Ich habe zwei Kinder. Einen Jungen und ein Mädchen.	the boy	FALSE
+MAS	Juni	Junis		the June	FALSE
+MAS	Kaffee	Kaffees	Zum Frühstück trinke ich immer Kaffee.	the coffee	FALSE
+FEM	Karte	Karten	Kann ich auch mit Karte (be-) zahlen?	the (credit) card	FALSE
+FEM	Karte	Karten	Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.	the menu	FALSE
+FEM	Kartoffel	Kartoffeln	Für Pommes frites braucht man Kartoffeln.	the potato	FALSE
+FEM	Kasse	Kassen	Zahlen Sie bitte an der Kasse.	the till	FALSE
+NEU	Kind	Kinder	Wie viele Kinder haben Sie?	the child	FALSE
+MAS	Kindergarten	Kindergärten	Die kleine Laura geht schon in den Kindergarten.	the kindergarten	FALSE
+NEU	Kino	Kinos	Wir sehen heute Abend im Kino einen schönen Film.	the cinema	FALSE
+MAS	Kiosk	Kioske	Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.	the kiosk	FALSE
+FEM	Klasse	Klassen	Im Zug fahre ich immer 2. Klasse.	the class	FALSE
+FEM	Kleidung	Kleidungen	Wo finde ich Kleidung? / Jacken im ersten, Jeans im zweiten Stock.	the clothes	FALSE
+MAS	Koffer	Koffer	Ist das Ihr Koffer?	the suitcase	TRUE
+MAS	Kollege	Kollegen	ßt die neue Kollegin?	the colleague	FALSE
+NEU	Konto	Kontos	Das Geld überweisen wir am ersten März auf Ihr Konto.	the account	FALSE
+MAS	Kopf	Köpfe	Mein Kopf tut weh!	the head	FALSE
+FEM	Küche	Küchen	Der neue Herd kommt in die Küche.	the kitchen	FALSE
+MAS	Kuchen	Kuchen	Ich nehme ein Stück Kuchen.	the cake	TRUE
+MAS	Kugelschreiber	Kugelschreiber	Hast du einen Kugelschreiber für mich?	the ball-point pen	TRUE
+MAS	Kühlschrank	Kühlschranke	Haben wir noch Milch? / Ja, im Kühlschrank.	the fridge	FALSE
+MAS	Kunde	Kunden	Einen Moment, bitte. Ich habe eine Kundin.	the (male) customer	FALSE
+MAS	Kurs	Kurse	Der Deutschkurs geht bis zum Sommer.	the course	FALSE
+MAS	Laden	Läden	Im Buchladen können Sie Bücher kaufen.	the shop	FALSE
+NEU	Land	Länder	Italien ist ein schönes Land.	the country	FALSE
+NEU	Leben	Leben	Das Leben in diesem Land ist teuer.	the life	TRUE
+MAS	Lehrer	Lehrer	Unsere Deutschlehrerin heißt Frau Müller.	the (male) teacher	TRUE
+NEU	Licht	Lichter	Wo macht man hier das Licht an?	the light	FALSE
+NEU	Lied	Lieder	Welches ist dein Lieblingslied?	the song	FALSE
+MAS	Lkw	Lkws	Dieser Lastkraftwagen ist sehr groß.	the HGV	FALSE
+NEU	Lokal	Lokale	In unserer Straße gibt es ein neues Lokal.	the pub	FALSE
+FEM	Lösung	Lösungen	Die Lösung ist ganz einfach.	the solution	FALSE
+NEU	Mädchen	Mädchen	Familie Kurz bekommt ein Baby. / Junge oder Mädchen?	the girl	TRUE
+MAS	Mai			the May	FALSE
+MAS	Mann	Männer	Mein Mann arbeitet bei der Polizei.	the man / husband	FALSE
+MAS	März	Märze		the March	FALSE
+FEM	Maschine	Maschinen	Die Waschmaschine ist günstig.	the machine	FALSE
+NEU	Meer	Meere	Wir machen Urlaub am Meer.	the sea	FALSE
+MAS	Mensch	Menschen	Die Menschen sind hier anders als bei uns.	the people	FALSE
+FEM	Miete	Mieten	Die Miete für diese Wohnung ist 600 Euro.	the rent	FALSE
+FEM	Milch	Milchen	Die Milch steht im Kühlschrank.	the milk	FALSE
+FEM	Minute	Minuten		the minute	FALSE
+MAS	Mittag	Mittage		the midday	FALSE
+FEM	Mitte	Mitten	Der Lehrer steht in der Mitte des Klassenzimmers.	the middle	FALSE
+MAS	Mittwoch	Mittwoche		the Wednesday	FALSE
+MAS	Moment	Momente	Moment mal bitte!	the moment	FALSE
+MAS	Montag	Montage		the Monday	FALSE
+MAS	Morgen	Morgen		the morning	TRUE
+MAS	Mund	Münder	Öffnen Sie den Mund.	the mouth	FALSE
+FEM	Mutter	Mütter	Frau Berghäuser ist die Mutter von Michaela.	the mother	FALSE
+MAS	Nachmittag	Nachmittag		the afternoon	TRUE
+FEM	Nacht	Nächte		the night	FALSE
+MAS	Name	Namen	Mein Name ist Thomas Schmidt.	the name	FALSE
+MAS	Norden			the north	FALSE
+MAS	November			the November	FALSE
+FEM	Nummer	Nummern	Welche Hausnummer haben Sie?	the number	FALSE
+NEU	Obst		Im Sommer ist das Obst billig.	the fruit	FALSE
+MAS	Oktober			the October	FALSE
+NEU	Öl	Öle	Den Salat machen wir ohne Öl.	the oil	FALSE
+FEM	Oma	Omas	Meine Oma ist schon tot.	the grandmother	FALSE
+MAS	Opa	Opas	Mein Opa heißt Hans.	the grandfather	FALSE
+MAS	Ort	Orte	Der Ort liegt am Meer.	the location / place	FALSE
+MAS	Osten			the east	FALSE
+NEU	Papier	Papiere	Hier sind Papier und Bleistift.	the paper	FALSE
+MAS	Partner	Partner	Er is mein Partner.	the (male) partner	TRUE
+FEM	Partnerin	Partnerinnen	Sie ist meine Partnerin.	the (female) partner	FALSE
+FEM	Party	Partys	Heute Abend machen wir eine Party.	the party	FALSE
+MAS	Pass	Pässe	Im Hotel brauchst du deinen Pass.	the passport	FALSE
+FEM	Pause	Pausen	Von 12:00 bis 12:30 Uhr haben wir Mittagspause.	the break	FALSE
+MAS	Plan	Pläne	Ich kaufe mir einen Stadtplan.	the map / plan	FALSE
+MAS	Platz	Plätze	Tut mir leid, der Platz ist besetzt.	the seat	FALSE
+MAS	Platz	Plätze	Bitte nehmen Sie Platz!	the seat	FALSE
+MAS	Platz	Plätze	Ich wohne neben dem Platz.	the square	FALSE
+FEM	Polizei	Polizeien	Holen Sie die Polizei!	the police	FALSE
+FEM	Post	Posten	Wo ist die Post, bitte?	the post office	FALSE
+FEM	Postleitzahl	Postleitzahlen	Wie ist Ihre Postleitzahl?	the postcode	FALSE
+NEU	Praktikum	Praktika	Ich mache ein Praktikum bei Siemens.	the internship	FALSE
+FEM	Praxis	Praxen	Die Praxis ist ab acht Uhr geöffnet.	the practice	FALSE
+MAS	Preis	Preise	Die Preise sind hoch.	the price	FALSE
+NEU	Problem	Probleme	Mein Problem ist die Sprache.	the problem	FALSE
+MAS	Prospekt	Prospekte	Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.	the brochure	FALSE
+FEM	Prüfung	Prüfungen	Die Prüfung ist am Montag um 8:00 Uhr.	the examination	FALSE
+MAS	Raum	Räume	Der Unterricht ist in Raum 332.	the room	FALSE
+FEM	Rechnung	Rechnungen	Die Rechnung, bitte.	the bill	FALSE
+MAS	Regen		Bei diesem Regen gehe ich nicht raus.	the rain	FALSE
+MAS	Reis	Reiser	Ich esse gern Reis.	the rice	FALSE
+FEM	Reise	Reisen	Wir machen eine Reise nach Österreich.	the journey / trip	FALSE
+NEU	Reisebüro	Reisebüros	Mein Mann arbeitet im Reisebüro.	the travel agency	FALSE
+MAS	Reiseführer	Reiseführer	Ich kaufe mir einen Reiseführer von Berlin.	the travel guide	TRUE
+FEM	Reparatur	Reparaturen	Die Reparatur ist sehr teuer.	the repair	FALSE
+NEU	Restaurant	Restaurants	Wir essen heute in einem Restaurant.	the restaurant	FALSE
+FEM	Rezeption	Rezeptionen	Fragen Sie bitte im Hotel an der Rezeption.	the reception	FALSE
+FEM	S-Bahn		Ich nehme lieber die S-Bahn.	the commuter train	FALSE
+MAS	Saft	Säfte	Möchtest du einen Apfelsaft?	the juice	FALSE
+MAS	Salat	Salate	Wie schmeckt dir der Salat?	the salad	FALSE
+NEU	Salz	Salze	Entschuldigung, kann ich bitte das Salz haben?	the salt	FALSE
+MAS	Samstag	Samstage		the Saturday	FALSE
+MAS	Satz	Sätze	Dieser Satz ist sehr einfach.	the sentence	FALSE
+MAS	Schalter	Schalter	Gehen Sie bitte zum Schalter drei!	the counter	TRUE
+NEU	Schild	Schilder	Haben Sie nicht das Schild gesehen?	the sign	FALSE
+MAS	Schinken	Schinken	Ich möchte gern ein Schinkenbrot.	the ham	TRUE
+MAS	Schluss	Schlüsse	Zum Schluss gibt er uns allen die Hand.	the end	FALSE
+MAS	Schlüssel	Schlüssel	Ich gebe Ihnen noch den Zimmerschlüssel.	the key	TRUE
+MAS	Schrank	Schränke	Die Gläser stehen im Schrank.	the cupboard	FALSE
+MAS	Schuh	Schuhe	Zieh die Schuhe aus!	the shoe	FALSE
+FEM	Schule	Schulen	Meine Tochter geht schon in die Schule.	the school	FALSE
+MAS	Schüler	Schüler	In meinem Kurs sind acht Schülerinnen und fünf Schüler.	the (male) pupil	TRUE
+FEM	Schwester	Schwestern	Meine Schwester kommt am Dienstag.	the sister	FALSE
+NEU	Schwimmbad	Schwimmbäder	Kommst du mit ins Schwimmbad?	the swimming pool	FALSE
+MAS	See	Seen	Komm, wir fahren zum Starnberger See.	the lake	FALSE
+FEM	Sehenswürdigkeit	Sehenswürdigkeiten	Welche Sehenswürdigkeiten gibt es in Frankfurt?	the sights/attractions	FALSE
+FEM	Sekunde	Sekunden		the second	FALSE
+MAS	September			the September	FALSE
+NEU	Sofa	Sofas	Das Sofa ist neu.	the sofa	FALSE
+MAS	Sohn	Söhne	Das ist Hans, mein Sohn.	the son	FALSE
+MAS	Sommer			the summer	FALSE
+FEM	Sonne	Sonnen	Die Sonne scheint.	the sun	FALSE
+MAS	Sonntag	Sonntage		the Sunday	FALSE
+FEM	Speisekarte	Speisekarten	Bringen Sie mir die Speisekarte, bitte.	the menu	FALSE
+MAS	Sport	Sporte	Ich mache viel Sport.	the sport	FALSE
+FEM	Sprache	Sprachen	Welche Sprachen sprichst du?	the language	FALSE
+FEM	Stadt	Städte	Heidelberg ist eine alte Stadt.	the town / city	FALSE
+FEM	Stelle	Stellen	Ich habe eine neue Stelle.	the job / position	FALSE
+MAS	Stock	Stöcke	Unsere Wohnung liegt im ersten Stock.	the floor (of a building)	FALSE
+FEM	Straße	Straßen	In welcher Straße wohnen Sie?	the street	FALSE
+FEM	Straßenbahn	Straßenbahnen	Wo fährt die Straßenbahn ab?	the tram	FALSE
+MAS	Student	Studenten	Ich bin Studentin.	the student	FALSE
+NEU	Studium	Studien	Das Studium beginnt im Oktober.	the degree course	FALSE
+FEM	Stunde	Stunden	Ich bin in einer Stunde zurück.	the hour	FALSE
+MAS	Süden			the south	FALSE
+MAS	Tag	Tage		the day	FALSE
+FEM	Tasche	Taschen	Ich habe die Schlüssel in der Tasche.	the bag	FALSE
+NEU	Taxi	Taxis	Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.	the taxi	FALSE
+MAS	Tee	Tees	Ich trinke morgens immer Tee.	the tea	FALSE
+MAS	Teil	Teile	Lies bitte auch den zweiten Teil.	the part	FALSE
+NEU	Telefon	Telefone	Haben Sie ein Telefon?	the telephone	FALSE
+MAS	Termin	Termine	Am besten machen wir sofort einen Termin.	the appointment	FALSE
+MAS	Test	Teste	Der Test war einfach.	the test	FALSE
+MAS	Text	Texte	Lesen Sie bitte diesen Text.	the text	FALSE
+NEU	Thema	Themata	Wir sprechen heute über das Thema „Essen und Trinken“.	the topic	FALSE
+NEU	Ticket	Tickets	Wie viel kostet das Ticket?	the ticket	FALSE
+MAS	Tisch	Tische	Die Fotos liegen auf dem Tisch.	the table	FALSE
+FEM	Tochter	Töchter	Das ist meine Tochter Katharina.	the daughter	FALSE
+FEM	Toilette	Toiletteen	Wo ist die Toilette, bitte?	the toilet	FALSE
+FEM	Tomate	Tomaten	Die Tomate ist noch grün.	the tomato	FALSE
+FEM	Treppe	Treppen	Die Toilette? Die Treppe hoch und dann links.	the stairs	FALSE
+FEM	Uhr		Es ist vier Uhr.	the o'clock / am / pm	FALSE
+MAS	Unterricht	Unterrichte	Wir haben Unterricht von 8:00 bis 12:00 Uhr.	the class	FALSE
+FEM	Unterschrift	Unterschriften	Hier fehlt noch Ihre Unterschrift.	the signature	FALSE
+MAS	Urlaub	Urlaube	Ich nehme im September Urlaub.	the holiday	FALSE
+MAS	Vater	Väter	Mein Vater ist Arbeiter.	the father	FALSE
+MAS	Verein	Vereine	Es gibt einen neuen Sportverein in der Stadt.	the club	FALSE
+MAS	Verkäufer	Verkäufer	Meine Mutter ist Verkäuferin im Kaufhaus.	the salesperson	TRUE
+MAS	Vermieter	Vermieter	Unser Vermieter heißt Huber. Er wohnt auch hier.	the landlord	TRUE
+MAS	Verwandte	Verwandten	Peter besucht seine Verwandten in Polen.	the relative	FALSE
+MAS	Vormittag	Vormittage		the morning	FALSE
+MAS	Vorname	Vornamen	Ich heiße Müller, mein Vorname ist Eva.	the first name	FALSE
+FEM	Vorsicht		Vorsicht! Da kommt ein Auto.	the care/caution	FALSE
+FEM	Vorwahl	Vorwahlen	Wie ist die Vorwahl von München?	the area telephone code	FALSE
+NEU	Wasser	Wasser	Ein Glas Wasser, bitte.	the water	TRUE
+MAS	Wein	Weine	Nein danke, ich möchte keinen Wein.	the wine	FALSE
+FEM	Welt	Welten	Es gibt viele Probleme auf der Welt.	the world	FALSE
+MAS	Westen			the west	FALSE
+NEU	Wetter	Wetter	Wir hatten schlechtes Wetter.	the weather	TRUE
+MAS	Wind	Winde	Der Wind kommt aus Osten.	the wind	FALSE
+MAS	Winter			the winter	FALSE
+FEM	Woche	Wochen		the week	FALSE
+NEU	Wochenende	Wochenenden		the weekend	FALSE
+MAS	Wochentag	Wochentage		the weekday	FALSE
+FEM	Wohnung	Wohnungen	Seit wann haben Sie diese Wohnung?	the flat	FALSE
+NEU	Wort	Wörter	Ich kenne das Wort nicht.	the word	FALSE
+NEU	Wörterbuch	Wörterbücher	In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.	the dictionary	FALSE
+FEM	Zeit	Zeiten	Ich habe heute keine Zeit.	the time	FALSE
+FEM	Zeitung	Zeitungen	Ich lese gern Zeitung.	the newspaper	FALSE
+FEM	Zigarette	Zigaretten	Wie teuer sind die Zigaretten?	the cigarette	FALSE
+NEU	Zimmer	Zimmer	Das Zimmer ist groß.	the room	TRUE
+MAS	Zoll	Zölle	Wir müssen noch durch den Zoll.	the customs	FALSE
+MAS	Zug	Züge	Ich fahre gern mit dem Zug.	the train	FALSE
+NOG		Eltern	Meine Eltern leben in Spanien.	the parents	FALSE
+NOG		Großeltern	Meine Großeltern leben in Japan.	the grandparents	FALSE
+NOG		Lebensmittel	Lebensmittel bekommen Sie im Supermarkt.	the food	FALSE
+NOG		Leute	In der Disko sind viele Leute.	the people	FALSE
+NOG		Möbel	Sind die Möbel neu?	the furniture	FALSE
+NOG		Pommes frites	Die Kinder essen Hähnchen mit Pommes frites.	the chips	FALSE
+MAS	Bildschirm	Bildschirme		the a (e.g. computer) screen	FALSE
+MAS	Supermarkt	Supermärkte		the supermarket	FALSE
+MAS	Kundenservice			the customer service	FALSE
+MAS	Fernseher	Fernseher		the television set	TRUE
+NEU	Vokabular	Vokabulare		the vocabulary	FALSE
