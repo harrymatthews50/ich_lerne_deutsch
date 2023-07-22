@@ -4,7 +4,7 @@ from collections import OrderedDict
 from abc import ABC, abstractmethod
 import numpy as np
 import copy as co
-from ich_lerne_deutsch import word_classes
+#from ich_lerne_deutsch import word_classes
 import time
 
 
@@ -59,7 +59,7 @@ class Drill(ABC):
                 candidates = np.setdiff1d(candidates, recents)
                 # add a tenth back in randomly
                 candidates = np.concatenate(
-                    (candidates, np.random.permutation(recents)[0:int(np.ceil(len(recents) / 10))]))
+                    (candidates, np.random.permutation(recents)[0:int(min([np.ceil(len(candidates) / 10),len(recents)]))]))
 
         return np.random.permutation(candidates)[0]
 
@@ -442,7 +442,7 @@ class PluralForms(WritingTest):
     def __init__(self):
         super().__init__()
         self.cases = ["NOM"]
-        self._remember_n_trials = 3
+        self._remember_n_trials = 2
 
     def launch_app(self):
         self.initialise_window_and_canvas()
@@ -511,7 +511,7 @@ class PerfektForms(WritingTest):
     def __init__(self):
         super().__init__()
         self.cases = ["NOM"]
-        self._remember_n_trials = 3
+        self._remember_n_trials = 2
 
     def launch_app(self):
         self.initialise_window_and_canvas()
@@ -562,7 +562,7 @@ class PerfektForms(WritingTest):
 class GermanWordMeanings(WritingTest):
     def __init__(self):
         super().__init__()
-        self._remember_n_trials = 2
+        self._remember_n_trials = 1
 
     def launch_app(self):
         self.initialise_window_and_canvas()
