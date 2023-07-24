@@ -4,7 +4,7 @@ from collections import OrderedDict
 from abc import ABC, abstractmethod
 import numpy as np
 import copy as co
-#from ich_lerne_deutsch import word_classes
+from ich_lerne_deutsch import word_classes
 import time
 
 
